@@ -1,2 +1,2 @@
-a = "print"
+a = "print this variable"
 print(a)
